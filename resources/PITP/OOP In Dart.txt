@@ -1,2 +1,2 @@
-notion
+notion details
 https://www.notion.so/Object-Oriented-Programming-OOP-in-Dart-2fc6e4c7741f8072887ffc3213d2bc6b?source=copy_link
